@@ -1,0 +1,38 @@
+{
+    "name": "learning_dataset",
+    "title": "Project Drawdown",
+    "version": "0.1",
+    "author": "Sneha Sharma",
+    "resources": [
+        {
+            "name": "learning_dayaset",
+            "path": "data/result.csv",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "solutions",
+                        "description": "Solutions",
+                        "type": "string"
+                    },
+                    {
+                        "name": "sector",
+                        "description": "Sector",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Scenario 1",
+                        "description": "Scenario 1",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Scenario 2",
+                        "description": "Scenario 2",
+                        "type": "number"
+                    }
+                ]
+            }
+        }
+    ]
+}

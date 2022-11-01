@@ -1,0 +1,94 @@
+solutions,sector,scenario_one,scenario_two
+Smart Thermostats,Electricity / Buildings,6.91,7.25
+Building Automation Systems,Electricity / Buildings,9.55,14.01
+LED Lighting,Electricity,14.45,15.69
+Insulation,Electricity / Buildings,15.38,18.54
+Dynamic Glass,Electricity / Buildings,0.34,0.54
+High-Performance Glass,Electricity / Buildings,8.82,11.34
+Green and Cool Roofs,Electricity / Buildings,0.53,0.99
+District Heating,Electricity / Buildings,6.18,9.68
+High-Efficiency Heat Pumps,Electricity / Buildings,4.04,9.05
+Solar Hot Water,Electricity / Buildings,3.41,13.73
+Low-Flow Fixtures,Electricity / Buildings,0.93,1.52
+Water Distribution Efficiency,Electricity,0.61,0.86
+Building Retrofitting,Electricity / Buildings,0,0
+Net-Zero Buildings,Electricity / Buildings,0,0
+Concentrated Solar Power,Electricity,18.00,21.51
+Distributed Solar Photovoltaics,Electricity,26.65,64.86
+Utility-Scale Solar Photovoltaics,Electricity,40.83,111.59
+Micro Wind Turbines,Electricity,0.09,0.11
+Onshore Wind Turbines,Electricity,46.95,143.56
+Offshore Wind Turbines,Electricity,10.22,9.89
+Geothermal Power,Electricity,6.15,9.17
+Small Hydropower,Electricity,1.65,3.21
+Ocean Power,Electricity,1.27,0.80
+Biomass Power,Electricity,2.62,3.59
+Nuclear Power,Electricity,3.17,3.64
+Waste to Energy,Electricity / Industry,6.27,5.24
+Landfill Methane Capture,Electricity / Industry,3.89,-1.48
+Methane Digesters,Electricity / Industry,6.02,7.05
+Grid Flexibility,Electricity,0,0
+Microgrids,Electricity,0,0
+Distributed Energy Storage,Electricity,0,0
+Utility-Scale Energy Storage,Electricity,0,0
+Plant-Rich Diets,"Food, Agriculture, and Land Use / Land Sinks",78.33,103.11
+Reduced Food Waste,"Food, Agriculture, and Land Use / Land Sinks",88.50,102.20
+Forest Protection,"Food, Agriculture, and Land Use / Land Sinks",5.55,8.83
+Indigenous Peoples’ Forest Tenure,"Food, Agriculture, and Land Use / Land Sinks",8.69,12.51
+Grassland Protection,"Food, Agriculture, and Land Use / Land Sinks",3.35,4.25
+Peatland Protection and Rewetting,"Food, Agriculture, and Land Use / Land Sinks",25.40,40.27
+Coastal Wetland Protection,"Food, Agriculture, and Land Use / Coastal and Ocean Sinks",1.20,1.62
+Sustainable Intensification for Smallholders,"Food, Agriculture, and Land Use / Land Sinks",1.36,0.68
+Conservation Agriculture,"Food, Agriculture, and Land Use / Land Sinks",12.81,8.08
+Regenerative Annual Cropping,"Food, Agriculture, and Land Use / Land Sinks",15.12,23.21
+Nutrient Management,"Food, Agriculture, and Land Use",2.77,11.48
+Farm Irrigation Efficiency,"Food, Agriculture, and Land Use",1.13,2.07
+Improved Rice Production,"Food, Agriculture, and Land Use / Land Sinks",9.85,14.43
+System of Rice Intensification,"Food, Agriculture, and Land Use / Land Sinks",2.90,4.44
+Alternative Cement,Industry,7.70,15.56
+Bioplastics,Industry,1.33,2.48
+Composting,Industry,1.13,1.40
+Recycling,Industry,10.36,11.29
+Recycled Paper,Industry,2.28,2.90
+Refrigerant Management,Industry / Buildings,57.15,57.15
+Alternative Refrigerants,Industry / Buildings,42.73,48.75
+Walkable Cities,Transportation,2.83,3.51
+Bicycle Infrastructure,Transportation,2.73,4.63
+Electric Bicycles,Transportation,1.39,1.55
+Carpooling,Transportation,9.06,11.07
+Public Transit,Transportation,9.42,15.42
+High-Speed Rail,Transportation,1.26,3.62
+Telepresence,Transportation,2.64,4.43
+Hybrid Cars,Transportation,1.61,4.71
+Efficient Trucks,Transportation,9.15,10.77
+Electric Trains,Transportation,1.91,3.25
+Electric Cars,Transportation,7.66,9.76
+Efficient Ocean Shipping,Transportation,6.72,9.83
+Efficient Aviation,Transportation,5.29,5.82
+Biogas for Cooking,Buildings,4.65,9.70
+Clean Cooking,Buildings,31.38,76.34
+Temperate Forest Restoration,Land Sinks,19.42,27.85
+Tropical Forest Restoration,Land Sinks,54.45,85.14
+Managed Grazing,Land Sinks,13.72,20.92
+Silvopasture,Land Sinks,26.58,42.31
+Multistrata Agroforestry,Land Sinks,13.26,23.94
+Tree Intercropping,Land Sinks,15.03,24.40
+Perennial Staple Crops,Land Sinks,16.34,32.87
+Perennial Biomass Production,Land Sinks,4.00,7.04
+Abandoned Farmland Restoration,Land Sinks,12.48,20.32
+Tree Plantations (on Degraded Land),Land Sinks,22.04,35.09
+Bamboo Production,Land Sinks,7.70,19.60
+Coastal Wetland Restoration,Coastal and Ocean Sinks,0.76,1.00
+Biochar Production,Engineered Sinks,1.36,3.00
+Family Planning and Education,Health and Education,68.90,68.90
+Improved Aquaculture,"Food, Agriculture, and Land Use",0.50,0.78
+Improved Cattle Feed,"Food, Agriculture, and Land Use",4.42,15.05
+Recycled Metals,Industry,4.31,12.34
+Improved Manure Management,"Food, Agriculture, and Land Use",3.34,6.09
+Reduced Plastics,Industry,3.76,5.40
+Recycled Plastics,Industry,0.52,1.69
+Seafloor Protection,"Food, Agriculture, and Land Use",3.80,5.14
+Methane Leak Management,Other Energy,25.83,31.29
+Seaweed Farming,Coastal and Ocean Sinks / Coastal and Ocean Sinks,2.50,4.72
+Improved Fisheries,"Food, Agriculture, and Land Use / Coastal and Ocean Sinks",1.01,1.54
+Macroalgae Protection and Restoration,Coastal and Ocean Sinks,2.61,3.78
